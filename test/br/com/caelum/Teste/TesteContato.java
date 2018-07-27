@@ -9,9 +9,9 @@ public class TesteContato {
 
     public static void main(String[] args) {
         Contato contato = new Contato();
-        contato.setNome("John Mark");
-        contato.setEmail("");
-        contato.setEndereco("");
+        contato.setNome("Candy Bob");
+        contato.setEmail("cady@bob.com");
+        contato.setEndereco("Sumaré dos Doces");
         contato.setDataNascimento(Calendar.getInstance());
 
 
